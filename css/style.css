@@ -380,10 +380,6 @@ footer h1 {
     margin-right: 10px;
   }
 
-  .about-list div:first-child ul li:last-child {
-    margin-right: 24px;
-  }
-
   .about-list div:last-child ul li {
     display: flex;
     justify-content: start;
@@ -468,5 +464,24 @@ footer h1 {
 
   #carouselDesktop {
     display: none;
+  }
+}
+
+@media (max-width: 325px) {
+  .about-list {
+    flex-direction: column;
+  }
+
+  .about-list div {
+    width: 100%;
+  }
+
+  .about-list div:first-child ul li,
+  .about-list div ul li {
+    text-align: center;
+  }
+
+  .about-list div:first-child ul li::before {
+    margin-right: 0;
   }
 }
