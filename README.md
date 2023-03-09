@@ -4,4 +4,4 @@ Projeto Baseado no Layout da [Louna Skylander](https://www.figma.com/community/f
 ## Tecnologias Utilizadas
 O foco do projeto foi o estudo pratico do Framework Bootstrap 5
 
-<h1 style="color: red">Projeto em Desenvolvimento</h1>
+<h1 style="color: red !important;">Projeto em Desenvolvimento</h1>
