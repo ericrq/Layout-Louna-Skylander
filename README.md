@@ -6,11 +6,9 @@ O Objetivo do Projeto é o Estudo Prático do Framework Bootstrap 5. Para Isso, 
 
 [![Projeto Online](img/btnOnline.svg)](https://ericrq.github.io/Layout-Louna-Skylander/) [![Projeto Figma](img/btnFigma.svg)](https://www.figma.com/community/file/1100769865627589687)
 
+[![projeto rick and morty](img/LounaSkylander.png)](https://ericrq.github.io/RickAndMorty/)
 
-<img src="img/LounaSkylander.png" alt="Louna Skylander" width="100%"/>
-
-<div align="justify">
-Na Imagem Acima É Possível Ver O Layout Da Louna Skylander, O Layout É Simples, Com Nomes Fictícios Em Lorem Ipsum, E Com Imagens De Exemplo. Ha Cards Com Imagens E Textos, Alguns Slides Com Imagens E Textos, E Um Formulário De Contato Fictício.
+<div align="justify">Na Imagem Acima É Possível Ver O Layout Da Louna Skylander, O Layout É Simples, Com Nomes Fictícios Em Lorem Ipsum, E Com Imagens De Exemplo. Ha Cards Com Imagens E Textos, Alguns Slides Com Imagens E Textos, E Um Formulário De Contato Fictício.
 </div>
 
 </div>
